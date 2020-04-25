@@ -1,0 +1,11 @@
+NeuralBabyTalk/data
+NeuralBabyTalk/demo
+NeuralBabyTalk/eval_results
+NeuralBabyTalk/prepro/stanford-corenlp-full-2017-06-09
+NeuralBabyTalk/save
+NeuralBabyTalk/visu
+NeuralBabyTalk/tools/coco-caption
+faster-rcnn.pytorch/data_fr
+faster-rcnn.pytorch/images
+faster-rcnn.pytorch/images_gen
+NeuralBabyTalk/.vector_cache
